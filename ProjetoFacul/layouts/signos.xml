@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Áries é o primeiro signo do zodíaco, associado à constelação de Aries e simbolizado pelo carneiro. É um signo de fogo, com qualidade cardinal e polaridade masculina. Regido por Marte, representa energia, iniciativa e liderança. Pessoas de Áries são conhecidas por sua coragem, entusiasmo e impulsividade, mas devem atentar para a impaciência e o comportamento impulsivo. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Touro é o segundo signo do zodíaco, associado à constelação de Taurus e simbolizado pelo touro. É um signo de terra, com qualidade fixa e polaridade feminina. Regido por Vênus, representa estabilidade, sensualidade e apreciação pelas coisas materiais. Taurinos são conhecidos por sua determinação, paciência e lealdade, mas devem evitar a teimosia e o apego excessivo ao conforto. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Gêmeos é o terceiro signo do zodíaco, associado à constelação de Gemini e simbolizado pelos gêmeos. É um signo de ar, com qualidade mutável e polaridade masculina. Regido por Mercúrio, representa comunicação, adaptabilidade e curiosidade. Geminianos são versáteis, sociáveis e intelectualmente ativos, mas devem cuidar da superficialidade e da dispersão. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Câncer é o quarto signo do zodíaco, associado à constelação de Cancer e simbolizado pelo caranguejo. É um signo de água, com qualidade cardinal e polaridade feminina. Regido pela Lua, representa emoções, intuição e proteção. Cancerianos são sensíveis, empáticos e valorizam a família, mas devem evitar o excesso de apego e a tendência ao isolamento. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Leão é o quinto signo do zodíaco, associado à constelação de Leo e simbolizado pelo leão. É um signo de fogo, com qualidade fixa e polaridade masculina. Regido pelo Sol, representa criatividade, liderança e generosidade. Leoninos são confiantes, carismáticos e apaixonados, mas devem cuidar do orgulho excessivo e da necessidade constante de atenção. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Virgem é o sexto signo do zodíaco, associado à constelação de Virgo e simbolizado pela virgem. É um signo de terra, com qualidade mutável e polaridade feminina. Regido por Mercúrio, representa análise, organização e serviço. Virginianos são práticos, detalhistas e prestativos, mas devem evitar o perfeccionismo excessivo e a crítica constante. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Libra é o sétimo signo do zodíaco, associado à constelação de Libra e simbolizado pela balança. É um signo de ar, com qualidade cardinal e polaridade masculina. Regido por Vênus, representa equilíbrio, justiça e harmonia. Librianos são diplomáticos, sociáveis e apreciam a beleza, mas devem cuidar da indecisão e da tendência a evitar confrontos. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Escorpião é o oitavo signo do zodíaco, associado à constelação de Scorpius e simbolizado pelo escorpião. É um signo de água, com qualidade fixa e polaridade feminina. Regido por Plutão e Marte, representa intensidade, transformação e profundidade emocional. Escorpianos são determinados, intuitivos e apaixonados, mas devem evitar o ciúme e a possessividade. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Sagitário é o nono signo do zodíaco, associado à constelação de Sagittarius e simbolizado pelo arqueiro. É um signo de fogo, com qualidade mutável e polaridade masculina. Regido por Júpiter, representa expansão, liberdade e otimismo. Sagitarianos são aventureiros, filosóficos e entusiastas, mas devem cuidar da imprudência e da falta de compromisso. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Capricórnio é o décimo signo do zodíaco, associado à constelação de Capricornus e simbolizado pela cabra. É um signo de terra, com qualidade cardinal e polaridade feminina. Regido por Saturno, representa responsabilidade, disciplina e ambição. Capricornianos são determinados, práticos e focados em objetivos, mas devem evitar o pessimismo e o excesso de rigidez. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Aquário é o décimo primeiro signo do zodíaco, associado à constelação de Aquarius e simbolizado pelo aguadeiro. É um signo de ar, com qualidade fixa e polaridade masculina. Regido por Urano e Saturno, representa inovação, independência e humanitarismo. Aquarianos são originais, visionários e progressistas, mas devem cuidar da impessoalidade e da rebeldia excessiva. [Fonte: Wikipédia]</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Peixes é o décimo segundo signo do zodíaco, associado à constelação de Pisces e simbolizado por dois peixes. É um signo de água, com qualidade mutável e polaridade feminina. Regido por Netuno e Júpiter, representa sensibilidade, compaixão e espiritualidade. Piscianos são intuitivos, criativos e empáticos, mas devem evitar a fuga da realidade e a tendência ao escapismo. [Fonte: Wikipédia]</descricao>
+  </signo>
+</signos>
